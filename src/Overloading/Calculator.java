@@ -16,16 +16,15 @@ public class Calculator {
 	public Calculator(int a, int b) {
 		
 	}
-   //
 	
+   //methods
+    public static void substraction() {
+		
+	}
 	
-	
-	
-	
-	
-	
-	
-	
+	public static void substraction(int x, int y) {
+		
+	}
 //example 1
 public void addition(int a , int b) {	
 	int sum =a+b;
@@ -45,11 +44,11 @@ public void addition(int a , int b , int c) {
 
 //example 2
 
-public void addition(String name,int v) {
+public void addition(String name,int id) {
 	
 }
 
-public void addition(int v,String name) {
+public void addition(int id,String name) {
 	
 }
 }

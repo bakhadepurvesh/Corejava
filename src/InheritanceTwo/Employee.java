@@ -2,6 +2,12 @@ package InheritanceTwo;
 
 public class Employee {
 	
+	public Employee() {
+		super();
+		System.out.println("Const - employee");
+		// TODO Auto-generated constructor stub
+	}
+	
 	int empId=102;
 	
 	static int abc=1234;

@@ -3,7 +3,8 @@ package Inheritance;
 public class Animal {
 	
 	// variables
-//	 public int salary=23; 
+	 int a =12;
+	 int d= 89;
 	
 	 //methods
 	public void printName(){

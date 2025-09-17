@@ -28,7 +28,7 @@ public class DemoThree {
 		// s == s1 >
 		
 		System.out.println(s==s1);
-		
+		System.out.println(s.equals(s1));
 	}
  
  

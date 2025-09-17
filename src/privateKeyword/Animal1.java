@@ -10,6 +10,7 @@ public class Animal1 {
 		this.name=name;
 	}	
 	
+	//get Value - getter
    public String getName() {
 		return name;
 	}	
